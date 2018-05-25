@@ -1,0 +1,16 @@
+PODS:
+  - SwiftCommonTools (0.1.0)
+
+DEPENDENCIES:
+  - SwiftCommonTools (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftCommonTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftCommonTools: 49070a93e284d024755036b7424c357f99cbfe55
+
+PODFILE CHECKSUM: f45327a8bf866ddd2342f6629f476a07697d8af8
+
+COCOAPODS: 1.5.2

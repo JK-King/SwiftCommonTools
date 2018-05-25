@@ -1,0 +1,22 @@
+{
+  "name": "SwiftCommonTools",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftCommonTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JK-King/SwiftCommonTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JK-King": "zhang_jiankun521@163.com"
+  },
+  "source": {
+    "git": "https://github.com/JK-King/SwiftCommonTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftCommonTools/Classes/**/*"
+}
